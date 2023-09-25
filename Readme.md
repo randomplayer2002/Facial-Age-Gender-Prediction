@@ -25,4 +25,6 @@ Here I made use of Deep Neural Network(DNN) for face detection. The function 'fa
 
 11. Finally, the function returns the input frame with bounding boxes drawn around detected faces, as well as the list of bounding boxes.
 
-###### To use this code, you need to load a pre-trained face detection model ('faceNet') using the 'cv2.dnn.readNet' function and then pass video frames or images through the 'faceBox' function to perform face detection and visualize the results with bounding boxes.
+To use this code, you need to load a pre-trained face detection model ('faceNet') using the 'cv2.dnn.readNet' function and then pass video frames or images through the 'faceBox' function to perform face detection and visualize the results with bounding boxes.
+
+![FR](https://github.com/randomplayer2002/Age-Gender-Prediction/assets/76877728/bc3b406f-fd09-4dc1-95cd-331a2ae217f3)
